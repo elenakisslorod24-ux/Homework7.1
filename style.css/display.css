@@ -1,0 +1,17 @@
+.block {
+    display: block; background: blue;padding: 10px; margin: 5px;
+}
+.inline {
+    display: inline;background: pink;padding: 10px; margin: 5px;
+}
+.flex-container {
+  display: flex;
+  border: 2px solid black;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background: lightblue;
+  margin: 5px;
+}

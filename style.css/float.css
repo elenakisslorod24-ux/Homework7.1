@@ -1,0 +1,6 @@
+.float-left { 
+    float: left; width: 100px; background: lightblue; margin: 5px; }
+.float-right { 
+    float: right; width: 100px; background: lightpink; margin: 5px; }
+.clear { 
+    clear: both; background: lightgreen; padding: 10px; margin: 5px; }
